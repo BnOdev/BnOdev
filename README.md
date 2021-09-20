@@ -1,6 +1,6 @@
 ###  <h1>Ola sou Bruno Almeida👋</h1> 
 
-🔭Atualmente estou trabalhando Novo Mundo.com
+🔭Atualmente estou trabalhando Novomundo.com
 
 🌱Atualmente estou aprendendo vue.js, front-end
 
