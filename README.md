@@ -4,7 +4,7 @@
 
 🌱Atualmente estou aprendendo vue.js, front-end
 
-👯Procuro colaborar com outros criadores de conteúdo
+👯Procuro colaborar com outros, parceria sempre
 
 ⚡Curiosidade : adoro um café.
 
